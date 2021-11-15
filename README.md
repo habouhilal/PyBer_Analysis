@@ -15,7 +15,7 @@ This analysis is conducted to help improve access to ride-sharing services and d
 ## Results 
 
 ### Ride sharing summary by city type 
-The summary rides by city types shows that Urban cities have the bigger pie of total rides. The average fare per rides is the lowest on the Urban cities $24.53 unlike the rural that has the highest $34.62. the average fare by drivers is higher on Rural cities unlike suburban that only have almost $40 or Urban that have around $16.
+The summary rides by city types shows that Urban cities have the bigger pie of total rides. The average fare per rides is the lowest on the Urban cities $24.53 unlike the rural that has the highest $34.62. the average fare by drivers is higher on Rural cities $55.49 unlike suburban that only have $39.50 or Urban that have around $16.
 Even though the total rides are more in Urban both averages of fares and drivers are low. 
 
 <img width="800" alt="pyber_summary" src="https://user-images.githubusercontent.com/91625564/141712928-a7caae76-2919-4220-8c23-10b54498de87.png">
@@ -51,7 +51,7 @@ On the chart above, we used the average fare for each city type on the Y-axes an
 - The peak in fares for all city types starts towards the end of February.
 - The urban cities fares totaled from $1,600 to $2,500 during this period.
 - Rural cities total fares don’t exceed $500 during the same period. 
-- 
+
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/91625564/141713093-a146e145-54ef-4aa5-947a-c2167fe3c831.png)
 
 ## Summary 
