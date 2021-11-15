@@ -62,4 +62,3 @@ Upon these results, Pyber can consider and work on the following suggestions.
 - Increase drivers on both Suburban and Rural cities as the average drivers is high and that will impact the average rides
 - Advertising the fares more in Suburban and Rural cities to increase total fares on those city types. 
 
-![image](https://user-images.githubusercontent.com/91625564/141714042-94e402fb-17a3-4c29-848d-6d839a8afac5.png)
